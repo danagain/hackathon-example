@@ -1,5 +1,9 @@
 def main():
-    print("Hello World!!!!!")
+    a = 1
+    b = 1
+    c = a + b
+    print(c, a, b)
+    return c
 
 
 main()
